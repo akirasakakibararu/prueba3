@@ -121,6 +121,7 @@ fun vistaExamen() {
                 boton(7)
                 boton(8)
                 boton(9)
+                boton(9)
             }
         }
     }
